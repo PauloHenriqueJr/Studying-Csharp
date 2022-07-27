@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{BC10B1DD-000C-4BA7-AC24-60C9DC05668A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{8EDBCAF2-3748-409F-A079-E81E58F36602}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BC10B1DD-000C-4BA7-AC24-60C9DC05668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC10B1DD-000C-4BA7-AC24-60C9DC05668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC10B1DD-000C-4BA7-AC24-60C9DC05668A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDBCAF2-3748-409F-A079-E81E58F36602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDBCAF2-3748-409F-A079-E81E58F36602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDBCAF2-3748-409F-A079-E81E58F36602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDBCAF2-3748-409F-A079-E81E58F36602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
