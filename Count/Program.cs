@@ -5,7 +5,7 @@ while (counter > 0)
     Console.WriteLine($"Detonação em: {counter}");
     Console.Beep(1500, 500);
     counter--;
-    Thread.Sleep(800);
+    Thread.Sleep(800); // metodo beep
 }
 
 Console.WriteLine("Booom!\n");
