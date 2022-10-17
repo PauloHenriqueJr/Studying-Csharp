@@ -20,5 +20,6 @@ namespace DesignPatterns
             realizador.Realiza(conta, conservador);
         }
    
+        // Strategy Pattern applied to the project DesignPatterns_01
     }
 }
