@@ -11,6 +11,7 @@ namespace DesignPatterns_03
         public string Titular { get; private set; }
         public int Numero { get; private set; }
         public string Agencia { get; private set; }
+        public DateTime DataAbertura { get; private set; }
 
         public void Deposita(double valor)
         {
