@@ -29,13 +29,3 @@
         // Creating Music using the Flyweight Pattern
     }
 }
-
-
-
-// List<INota> musica = new List<INota>()
-// {
-//     Do, Do, Mi, Mi, Fa, Fa, Mi, Do, Do, Mi, Mi, Fa, Fa, Mi, Do, Mi, Fa, Sol, Sol, Fa, Fa, Mi, Mi, Re, Re, Do
-// };
-
-// Piano piano = new Piano();
-// piano.Toca(musica);
