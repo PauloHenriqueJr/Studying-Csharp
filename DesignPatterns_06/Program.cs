@@ -8,8 +8,11 @@
             IList<INota> musica = new List<INota>();
             IList<IPartitura> partituras = new List<IPartitura>()
             {
-                new MarchaTurca(notas),
-                new FurElise(notas)
+                // new MarchaTurca(notas),
+                // new FurElise(notas),
+                // new Pieces(notas),
+
+                 new Parabens(notas)
             };
 
             foreach (var partitura in partituras)
